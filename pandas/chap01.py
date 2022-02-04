@@ -91,3 +91,4 @@ left = pd.DataFrame({'key': ['K0', 'K4', 'K2', 'K3'],
 right = pd.DataFrame({'key' : ['K0', 'K1', 'K2', 'K3'],
                         'C' : ['C0', 'C1', 'C2', 'C3']})
                         '''
+print("pandas")
